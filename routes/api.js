@@ -139,7 +139,7 @@ loghandler = {
     }
 }
 
-const listkey = ["HelgaZex", "zeeoneofc"];
+const listkey = ["HelgaZex", "zeeoneofc", "ZasXCar"];
 //router.use(favicon(__path + "/views/logo.ico"));
 
 var len = 15
